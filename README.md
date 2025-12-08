@@ -2,7 +2,7 @@
   <img src="nama.svg" alt="zayyan" />
 </h1>
 
-<h3><p align="center">CyberSecurity Engineer</p></h3>
+<h3><p align="center">Security Engineer</p></h3>
 
 Hi, i'm <b>zayyan</b> - A lifelong learner and perpetual explorer!
 ```javascript
