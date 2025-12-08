@@ -2,20 +2,20 @@
   <img src="nama.svg" alt="zayyan" />
 </h1>
 
-<p align="center">CyberSecurity Engineer</p>
+<h3><p align="center">CyberSecurity Engineer</p></h3>
 
 Hi, i'm <b>zayyan</b> - A lifelong learner and perpetual explorer!
 ```javascript
 // A bit more about myself:
 
 const zayyan = {
-  code: ["Python", "SQL", "C++"],
+  code: ["Python", "SQL", "C++", "Javascript"],
   IDE: ["VSCode"],
-  education: ["InformationSystems_UniversityStateofSurabaya"],
+  education: ["informationSystems_stateUniversityofSurabaya"],
   interests: {
         mainInterest: "cybersecurity",
         sideInterest: "coding",
         enthusiasticAbout: ["AI", "OSINT"]
   },
-  hobbies: ["reading", "researching"]
+  hobbies: ["reading", "researching", "scrolling"]
 };
