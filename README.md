@@ -14,7 +14,7 @@ const zayyan = {
   education: ["informationSystems_stateUniversityofSurabaya"],
   interests: {
         mainInterest: "cybersecurity",
-        sideInterest: "coding",
+        sideInterest: "robotics",
         enthusiasticAbout: ["AI", "OSINT"]
   },
   hobbies: ["reading", "researching", "scrolling"]
